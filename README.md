@@ -7,3 +7,4 @@ Collection of programs written in python
 
 `wikilinkscraper` - A wikipedia scraper in Python
 
+`Space-Fighters` - A simple space game in python pygame library
